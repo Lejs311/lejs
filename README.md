@@ -1,4 +1,3 @@
-# lejs
 {
     "data": {
         "items": [
