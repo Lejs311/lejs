@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/Lejs311/hfhfh/refs/heads/main/update.json
+https://raw.githubusercontent.com/Lejs311/gdrgdrgr/refs/heads/main/update.json
